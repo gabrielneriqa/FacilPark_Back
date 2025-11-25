@@ -1,0 +1,1 @@
+package com.facilpark.models; public class Moto extends Veiculo{ public Moto(String p){ super("moto",p);} }

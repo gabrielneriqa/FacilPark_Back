@@ -1,0 +1,1 @@
+package com.facilpark.models; public class Caminhao extends Veiculo{ public Caminhao(String p){ super("caminhao",p);} }
